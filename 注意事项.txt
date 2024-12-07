@@ -1,0 +1,2 @@
+Qt version：6.7.3
+MariaDB version：10.11.8
